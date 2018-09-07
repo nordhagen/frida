@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "client": "Skien Kommune",
+    "project": "Ibsenbiblioteket",
+    "description": "Technology concept for library and visitor centre celebrating Skien as Henrik Ibsen's home town.",
+    "status": "UNCOMFIRMED",
+    "startDate": null,
+    "endDate": null,
+    "durationWeeks": 12,
+    "resources": [
+      {
+        "type": "tech",
+        "rank": "lead",
+        "need": 1
+      },
+      {
+        "type": "service",
+        "rank": "designer",
+        "need": 1
+      }
+    ]
+  }
+]

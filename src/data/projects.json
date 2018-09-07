@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "client": "Cisco",
+    "project": "Project Workplace",
+    "description": "Product and solution showcase website for Cisco's video conferencing platform",
+    "status": "ACTIVE",
+    "startDate": "01-01-2018",
+    "endDate": "31-12-2018",
+    "durationWeeks": 52,
+    "team": [
+      {
+        "type": "tech",
+        "rank": "designer",
+        "utilization": 1,
+        "person": "Martin"
+      },
+      {
+        "type": "tech",
+        "rank": "lead",
+        "utilization": 0.2,
+        "person": "Øyvind"
+      },
+      {
+        "type": "pm",
+        "rank": "any",
+        "utilization": 0.1,
+        "person": "Susann"
+      },
+      {
+        "type": "business",
+        "rank": "senior",
+        "utilization": 0.6,
+        "person": null
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "client": "TrønderEnergi",
+    "project": "PilotE",
+    "description": "Client dashboard to facilitate the future of smart energy consumption",
+    "status": "ACTIVE",
+    "startDate": "01-06-2018",
+    "endDate": "15-09-2018",
+    "durationWeeks": 20,
+    "team": [
+      {
+        "type": "service",
+        "rank": "designer",
+        "utilization": 1,
+        "person": "Maren"
+      },
+      {
+        "type": "tech",
+        "rank": "lead",
+        "utilization": 0.2,
+        "person": "Øyvind"
+      },
+      {
+        "type": "pm",
+        "rank": "designer",
+        "utilization": 0.1,
+        "person": "Bente"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "client": "Designit Global",
+    "project": "designit.com",
+    "description": "Global website for Designit",
+    "status": "ACTIVE",
+    "startDate": "01-06-2018",
+    "endDate": "15-09-2018",
+    "durationWeeks": 20,
+    "team": [
+      {
+        "type": "digital",
+        "rank": "designer",
+        "utilization": 1,
+        "person": null
+      },
+      {
+        "type": "tech",
+        "rank": "designer",
+        "utilization": 0.2,
+        "person": null
+      },
+      {
+        "type": "ux",
+        "rank": "designer",
+        "utilization": 0.1,
+        "person": null
+      }
+    ]
+  }
+]
